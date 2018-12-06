@@ -1,0 +1,6 @@
+.idea/
+dist
+distdev
+node_modules
+.DS_Store
+
